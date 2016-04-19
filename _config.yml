@@ -1,0 +1,28 @@
+name: Blossom Life Coach
+favicon: null
+layout_spectrum: 0.22172269970178604
+typography_spectrum: 0.6470542720053345
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.35356361814774573
+  lightness: 0.8900758901145309
+  saturation: 0.16184143954887986
+  rhythmicContrast: 0.12483053235337138
+purpose: []
